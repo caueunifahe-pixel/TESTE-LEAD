@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Painel de Leads UNIFAHE</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="shellHeader">
+    <div class="logoBlock">
+      <img src="logoLight.png" class="logoImage relative z-10 opacity-0 shadow-black/5 data-[loaded=true]:opacity-100 shadow-none transition-transform-opacity motion-reduce:transition-none !duration-300 rounded-none mx-auto h-auto w-28 min-w-28 select-none object-cover 2xl:w-44" sizes="100vw" alt="Unifahe" height="0" width="0" draggable="false" data-loaded="true">
+    </div>
+
+    <nav class="mainNav">
+      <button class="navBtn active" data-view="leads">Leads</button>
+      <button class="navBtn" data-view="frases">Campanhas</button>
+      <button class="navBtn" data-view="vendedores">Vendedores</button>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <div class="heroPattern heroPatternA"></div>
+    <div class="heroPattern heroPatternB"></div>
+    <div class="heroStrip"></div>
+
+    <div class="heroInner">
+      <div class="pill"><span></span> PAINEL DE LEADS · FIREBASE</div>
+      <h1>Acompanhamento de campanhas</h1>
+      <p>Visualização compacta dos leads por vendedor, campanha e status de resposta.</p>
+      <div class="heroActions">
+        <button class="heroPrimary" data-view-go="leads">Ver leads registrados</button>
+        <button class="heroSecondary" data-view-go="vendedores">Resumo por vendedor</button>
+      </div>
+    </div>
+
+    <div class="heroInfoCard">
+      <span>Prazo de teste</span>
+      <strong>1 minuto</strong>
+      <small>Depois ajustamos para 1min</small>
+    </div>
+  </section>
+
+  <main class="app">
+    <section class="quickTitle">
+      <div class="quickIcon">▦</div>
+      <div>
+        <h2>Resumo rápido</h2>
+        <p>Clique em Respondidos, Não respondeu ou Sem graduação para abrir o ranking.</p>
+      </div>
+    </section>
+
+    <section class="metrics" id="metrics"></section>
+
+    <section class="view active" id="view-leads">
+      <section class="panel">
+        <div class="panelHead">
+          <div>
+            <h2>Leads registrados</h2>
+            <p>Lista compacta. A classificação é feita somente pela extensão.</p>
+          </div>
+          <div class="actions">
+            <button class="soft" id="refresh">Atualizar</button>
+            <button class="soft" id="exportCsv">Exportar CSV</button>
+            <button class="primary" id="exportPdf">Salvar PDF</button>
+          </div>
+        </div>
+
+        <div class="filtersBar">
+          <input id="search" placeholder="Buscar ID, telefone, frase ou vendedor">
+          <select id="statusFilter">
+            <option value="todos">Todos</option>
+            <option value="pendente">Pendentes</option>
+            <option value="respondido">Respondidos</option>
+            <option value="nao_respondeu">Não respondeu</option>
+          </select>
+          <select id="sellerFilter">
+            <option value="todos">Todos vendedores</option>
+          </select>
+        </div>
+
+        <div class="tableWrap">
+          <table class="leadTable">
+            <thead>
+              <tr>
+                <th>ID</th>
+                <th>Status</th>
+                <th>Telefone</th>
+                <th>Vendedor</th>
+                <th>Frase/Campanha</th>
+                <th>Caiu em</th>
+                <th>Prazo</th>
+                <th>RD</th>
+              </tr>
+            </thead>
+            <tbody id="leadRows"></tbody>
+          </table>
+          <div class="empty" id="emptyLeads" hidden>Nenhum lead encontrado.</div>
+        </div>
+      </section>
+    </section>
+
+    <section class="view" id="view-frases">
+      <section class="panel">
+        <div class="panelHead">
+          <div>
+            <h2>Resumo por campanha/frase</h2>
+            <p>Formato compacto para analisar várias campanhas em uma única tela.</p>
+          </div>
+          <button class="primary" onclick="window.print()">Salvar PDF</button>
+        </div>
+        <div class="compactTableWrap">
+          <table class="summaryTable">
+            <thead>
+              <tr>
+                <th>Campanha / frase</th>
+                <th>Caiu</th>
+                <th>Pendente</th>
+                <th>Respondido</th>
+                <th>Não resp.</th>
+                <th>Sem grad.</th>
+              </tr>
+            </thead>
+            <tbody id="phraseRows"></tbody>
+          </table>
+        </div>
+      </section>
+    </section>
+
+    <section class="view" id="view-vendedores">
+      <section class="panel">
+        <div class="panelHead">
+          <div>
+            <h2>Resumo por vendedor</h2>
+            <p>Mais de 20 vendedores em grade compacta, sem cards grandes.</p>
+          </div>
+          <button class="primary" onclick="window.print()">Salvar PDF</button>
+        </div>
+        <div class="sellerMiniGrid" id="sellerGrid"></div>
+      </section>
+    </section>
+  </main>
+
+  <div class="toast" id="toast"></div>
+  <script type="module" src="app.js"></script>
+</body>
+</html>
