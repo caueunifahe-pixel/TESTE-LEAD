@@ -1,0 +1,440 @@
+[
+  {
+    "localPath": "images/back-extension/frame-1.svg",
+    "bytes": 10622,
+    "sha256": "65d48f0e8791e6a53bbcb8c89406703ba12ac17e7043b9e15072a9aca45e0a30",
+    "viewBox": "0 0 512 512"
+  },
+  {
+    "localPath": "images/barbell-row/frame-1.svg",
+    "bytes": 13717,
+    "sha256": "83c883bca332edf8f30b8283245d7db131310804483c82a9bf66ae5d6bca7f4e",
+    "viewBox": "0 0 512 512"
+  },
+  {
+    "localPath": "images/bench-press/frame-1.svg",
+    "bytes": 20294,
+    "sha256": "8d2e44a4623545d6de7318bd7e9e61ca6c70b79847ef0360973a8ad6ec4a7d27",
+    "viewBox": "0 0 512 512"
+  },
+  {
+    "localPath": "images/bicep-curl/frame-1.svg",
+    "bytes": 13078,
+    "sha256": "d1af040a7d87a0778dbdb18417a877f7bfe0b8c5f3d1333c36739f5e8e4a83d9",
+    "viewBox": "0 0 512 512"
+  },
+  {
+    "localPath": "images/bicycle-crunch/frame-1.svg",
+    "bytes": 9968,
+    "sha256": "a88ca6176d3390346c386c9ed33720e13c196674d99f582c3388d732fc972dc2",
+    "viewBox": "0 0 512 512"
+  },
+  {
+    "localPath": "images/bulgarian-split-squat/frame-1.svg",
+    "bytes": 18571,
+    "sha256": "a4fcfffb3d8a51946329cb086c345b98d4bd2614dcdf99f04c358bb2361be017",
+    "viewBox": "0 0 512 512"
+  },
+  {
+    "localPath": "images/cable-crunch/frame-1.svg",
+    "bytes": 8159,
+    "sha256": "33fec92d74f97a2bdaa9c55b7de1ccf51cb260d9a8cf9b646b6a36cf35754ff8",
+    "viewBox": "0 0 512 512"
+  },
+  {
+    "localPath": "images/cable-curl/frame-1.svg",
+    "bytes": 14917,
+    "sha256": "ef3c1b0b5bafa4107a06d0aa1ac1f85fe7f703815e48434647e582d1cdca89b3",
+    "viewBox": "0 0 512 512"
+  },
+  {
+    "localPath": "images/cable-fly/frame-1.svg",
+    "bytes": 14322,
+    "sha256": "5f875724f82e91a189cec02adc94cf2bc430818882119ca674fe59bf43eb5aa7",
+    "viewBox": "0 0 512 512"
+  },
+  {
+    "localPath": "images/cable-kickback/frame-1.svg",
+    "bytes": 10141,
+    "sha256": "75443d546ae3d0c5ef96f6d734fe12da0cd48b2d60bf8663222c703facec1754",
+    "viewBox": "0 0 512 512"
+  },
+  {
+    "localPath": "images/close-grip-bench-press/frame-1.svg",
+    "bytes": 15990,
+    "sha256": "95ea51250bd647838e448664e764a2a141ac081aa186d77d3749f0a50ba176f8",
+    "viewBox": "0 0 512 512"
+  },
+  {
+    "localPath": "images/crunch/frame-1.svg",
+    "bytes": 10587,
+    "sha256": "7e4a03a575a2e0e68a8c9232242414920285ab5b4159d818f5c228650137788d",
+    "viewBox": "0 0 512 512"
+  },
+  {
+    "localPath": "images/deadlift/frame-1.svg",
+    "bytes": 11493,
+    "sha256": "79b0f94bd60fad1fdd74590a87b74b5daa321d46902439561c71b64f82168fac",
+    "viewBox": "0 0 512 512"
+  },
+  {
+    "localPath": "images/dip/frame-1.svg",
+    "bytes": 15092,
+    "sha256": "dae0525dda96e7497b839f24ee921d469785942226d23ff95e7f5f767fbd47b1",
+    "viewBox": "0 0 512 512"
+  },
+  {
+    "localPath": "images/dumbbell-bench-press/frame-1.svg",
+    "bytes": 16878,
+    "sha256": "11be05184926c40731c131b8925907253f54229b47bd3dd1ebb406e76f9a52cf",
+    "viewBox": "0 0 512 512"
+  },
+  {
+    "localPath": "images/dumbbell-fly/frame-1.svg",
+    "bytes": 10628,
+    "sha256": "270b1a3d2695e9f64e84baa32f1081463d06c711fe832ab4fc9b2873c3624a4c",
+    "viewBox": "0 0 512 512"
+  },
+  {
+    "localPath": "images/dumbbell-overhead-tricep-extension/frame-1.svg",
+    "bytes": 14723,
+    "sha256": "87ca26b4e51574a83a9824be3fd018661990f81943ef2284f70a8126857bfd27",
+    "viewBox": "0 0 512 512"
+  },
+  {
+    "localPath": "images/farmer-carry/frame-1.svg",
+    "bytes": 17835,
+    "sha256": "370072cc32e7417d74e5f32eb911de4a59886b763f26887aa204dc93130a536c",
+    "viewBox": "0 0 512 512"
+  },
+  {
+    "localPath": "images/front-raise/frame-1.svg",
+    "bytes": 15274,
+    "sha256": "794cf691e9fabde7dd0772653c625f13538f4e2779f3e2e7f0df7fa367d82a46",
+    "viewBox": "0 0 512 512"
+  },
+  {
+    "localPath": "images/front-squat/frame-1.svg",
+    "bytes": 14212,
+    "sha256": "6489534c678d8f8f3b510a26de18b14e2e26c56afa993ab89a864a0d62fb74cb",
+    "viewBox": "0 0 512 512"
+  },
+  {
+    "localPath": "images/glute-bridge/frame-1.svg",
+    "bytes": 9796,
+    "sha256": "64830d042d3ef122b54391cee0339f60d10dc05a79007893f56f6ba35c344e96",
+    "viewBox": "0 0 512 512"
+  },
+  {
+    "localPath": "images/good-morning/frame-1.svg",
+    "bytes": 11168,
+    "sha256": "d3481c059d553736d1f059f346a3b5821748f3bf9efd284f50fa6e081bf7cf77",
+    "viewBox": "0 0 512 512"
+  },
+  {
+    "localPath": "images/hammer-curl/frame-1.svg",
+    "bytes": 13430,
+    "sha256": "b1341a8df0d30d4f8d63700a5b879f47994fbd0825346528469c591276ea94d0",
+    "viewBox": "0 0 512 512"
+  },
+  {
+    "localPath": "images/hanging-leg-raise/frame-1.svg",
+    "bytes": 20062,
+    "sha256": "bacd358b4beab5001cbbafc1c7d9162fda29fff2a1b26ed69177c3adf749dd28",
+    "viewBox": "0 0 512 512"
+  },
+  {
+    "localPath": "images/hip-abduction-machine/frame-1.svg",
+    "bytes": 33144,
+    "sha256": "f5baec20ecd8eec625b8e9f62ff7c0d419d45d879d8741e9ca5f350a1b978b35",
+    "viewBox": "0 0 512 512"
+  },
+  {
+    "localPath": "images/incline-dumbbell-curl/frame-1.svg",
+    "bytes": 12466,
+    "sha256": "0c46ec68cea140be69f2c7ba382d3e7675b55da23a9fc6a1eecb6d18d76e7aa0",
+    "viewBox": "0 0 512 512"
+  },
+  {
+    "localPath": "images/incline-dumbbell-press/frame-1.svg",
+    "bytes": 15476,
+    "sha256": "3ffeec079bf2c02040e9f67ea8580b301e2929d8ce4c6ffc33dbb20118a28844",
+    "viewBox": "0 0 512 512"
+  },
+  {
+    "localPath": "images/lat-pulldown/frame-1.svg",
+    "bytes": 12780,
+    "sha256": "6bd3bf4edda543bb2cf255e0071122f00b0846d7f92f661c6139035271330e3e",
+    "viewBox": "0 0 512 512"
+  },
+  {
+    "localPath": "images/lateral-raise/frame-1.svg",
+    "bytes": 14906,
+    "sha256": "51716817454492e555ac9796a030fc985b244c6b2b169e44ec51a9896902c34d",
+    "viewBox": "0 0 512 512"
+  },
+  {
+    "localPath": "images/leg-curl/frame-1.svg",
+    "bytes": 12457,
+    "sha256": "c80998d0d80c53b5379ec53f90b3fdea0bf802d1709e7338c0e5fda686ecda9c",
+    "viewBox": "0 0 512 512"
+  },
+  {
+    "localPath": "images/leg-extension/frame-1.svg",
+    "bytes": 15047,
+    "sha256": "b4d2100d0d610a9812f683cba1b83db9d8114bb8e956830f1c89121ef9a9f848",
+    "viewBox": "0 0 512 512"
+  },
+  {
+    "localPath": "images/leg-press/frame-1.svg",
+    "bytes": 11756,
+    "sha256": "eb5f919c65e7fa38428730552a762bae23fcb57fa6c62b2777a971ec6ef26dff",
+    "viewBox": "0 0 512 512"
+  },
+  {
+    "localPath": "images/leg-press-calf-raise/frame-1.svg",
+    "bytes": 15900,
+    "sha256": "11846c56cae7cad4a53802ac9f602119f84f5b7a225e099dc113e2ba395708d9",
+    "viewBox": "0 0 512 512"
+  },
+  {
+    "localPath": "images/one-arm-dumbbell-row/frame-1.svg",
+    "bytes": 19510,
+    "sha256": "b818e63d8dc40bf3bd1b59aa9fa91fd5c7bdfed99bbb2ac599c4bed328a7de2f",
+    "viewBox": "0 0 512 512"
+  },
+  {
+    "localPath": "images/overhead-press/frame-1.svg",
+    "bytes": 19211,
+    "sha256": "f8f67ba53c56532712b0eab6b4372038d45258a039bf53e641d154807de33922",
+    "viewBox": "0 0 512 512"
+  },
+  {
+    "localPath": "images/plank/frame-1.svg",
+    "bytes": 12483,
+    "sha256": "0f65a842d151f80918e4ee45d1a9f659dd5a82e2d9857c9ad6ae06832a872e94",
+    "viewBox": "0 0 512 512"
+  },
+  {
+    "localPath": "images/preacher-curl/frame-1.svg",
+    "bytes": 14642,
+    "sha256": "e492da74e9308577525c58a7e0799b0c2f366d2efb5f1dc1fb153031cd74e42d",
+    "viewBox": "0 0 512 512"
+  },
+  {
+    "localPath": "images/pull-up/frame-1.svg",
+    "bytes": 12974,
+    "sha256": "bacba06517e970acecfeda6cea53c5a54a169ab3229eff4757a7ad40e1db62d0",
+    "viewBox": "0 0 512 512"
+  },
+  {
+    "localPath": "images/push-up/frame-1.svg",
+    "bytes": 12615,
+    "sha256": "52513e555c392c30e2b3f33a4b99cd4308295ca8b9fb843acd566c287f13a316",
+    "viewBox": "0 0 512 512"
+  },
+  {
+    "localPath": "images/rear-delt-fly/frame-1.svg",
+    "bytes": 18588,
+    "sha256": "b4fd1e50ed96c82b171f25ad0147362b99bf23aff5cbb38ffeadf654b0094679",
+    "viewBox": "0 0 512 512"
+  },
+  {
+    "localPath": "images/reverse-curl/frame-1.svg",
+    "bytes": 19797,
+    "sha256": "87307b80aa37080f354e306f16e5ae3d6f16dd6d06c32fa8e7c5d80c2cacef7c",
+    "viewBox": "0 0 512 512"
+  },
+  {
+    "localPath": "images/romanian-deadlift/frame-1.svg",
+    "bytes": 11965,
+    "sha256": "d7fc95623dc527caaaa0528aacc682f42c7c2c42fc4824fc27ad211eff242bc5",
+    "viewBox": "0 0 512 512"
+  },
+  {
+    "localPath": "images/russian-twist/frame-1.svg",
+    "bytes": 17438,
+    "sha256": "6b8bc1b9b0c54d04879cd421f0c1a1762ff867b24ac6d378dcc67196c7b9d84e",
+    "viewBox": "0 0 512 512"
+  },
+  {
+    "localPath": "images/seated-calf-raise/frame-1.svg",
+    "bytes": 13624,
+    "sha256": "98af70dee19466bd47702f311390258a27eb006f2c554262adff14bb3b622a6f",
+    "viewBox": "0 0 512 512"
+  },
+  {
+    "localPath": "images/seated-dumbbell-press/frame-1.svg",
+    "bytes": 23640,
+    "sha256": "78d50c1ac770871a58d7637777f60e9b7fcb0c939415ca4c7e1fdd9919e7536e",
+    "viewBox": "0 0 512 512"
+  },
+  {
+    "localPath": "images/seated-leg-curl/frame-1.svg",
+    "bytes": 15379,
+    "sha256": "5523521a2db068377790f52b91556a14e7b630bbf66e8e54efa110be57ecaa72",
+    "viewBox": "0 0 512 512"
+  },
+  {
+    "localPath": "images/seated-row/frame-1.svg",
+    "bytes": 12359,
+    "sha256": "c58eccc52903c9ea97544b201bc77996054a1743dd9efba14d5fc102674f1a4f",
+    "viewBox": "0 0 512 512"
+  },
+  {
+    "localPath": "images/side-plank/frame-1.svg",
+    "bytes": 12548,
+    "sha256": "5a63eb2766074fc6a9f3d370496caf5e3e56c9b141cbd14c60939c7b9f86e36f",
+    "viewBox": "0 0 512 512"
+  },
+  {
+    "localPath": "images/skull-crusher/frame-1.svg",
+    "bytes": 11927,
+    "sha256": "23bcbf199a617d326cdfa2f438c96126889d1dcba68c036c11d5c3bb63caa2a7",
+    "viewBox": "0 0 512 512"
+  },
+  {
+    "localPath": "images/squat/frame-1.svg",
+    "bytes": 14978,
+    "sha256": "3c77a2088edf3271b7f2034154979e1adcdbb2e1c467ad2cc58cedc6e92d98b9",
+    "viewBox": "0 0 512 512"
+  },
+  {
+    "localPath": "images/standing-calf-raise/frame-1.svg",
+    "bytes": 17508,
+    "sha256": "7de000c4b9dd9339201df956e74d8d527ae4eceab86a49e5e2a22e0043994320",
+    "viewBox": "0 0 512 512"
+  },
+  {
+    "localPath": "images/standing-hip-extension/frame-1.svg",
+    "bytes": 6079,
+    "sha256": "2d3ddee932d9ef913bef04d7ea9b6660613209f2f6cdac08090e02fdd00506bb",
+    "viewBox": "0 0 512 512"
+  },
+  {
+    "localPath": "images/tricep-pushdown/frame-1.svg",
+    "bytes": 14079,
+    "sha256": "db8b6297818d007d3243bd767fa65b478519ac4b1ed7aedc908ea297e36ddcaf",
+    "viewBox": "0 0 512 512"
+  },
+  {
+    "localPath": "images/walking-lunge/frame-1.svg",
+    "bytes": 15975,
+    "sha256": "f8824b193196979f7742db392146255abab276c22063e812b3e6db333088e018",
+    "viewBox": "0 0 512 512"
+  },
+  {
+    "localPath": "images/wrist-extension/frame-1.svg",
+    "bytes": 16436,
+    "sha256": "dfbe01ff230682eb3b8322543d5a78b956a194dfb9212c8ed998cac9d44b745c",
+    "viewBox": "0 0 512 512"
+  },
+  {
+    "localPath": "muscles/abs.svg",
+    "bytes": 30245,
+    "sha256": "1f837b119de880d5a812d4a6fe677de83f48b88a39c30042850f9615017d4b87",
+    "viewBox": "0 0 724 1448"
+  },
+  {
+    "localPath": "muscles/back-extension.svg",
+    "bytes": 25404,
+    "sha256": "859bffa3950a9b57bd04461e8af694f11c5995f8df099e5b642ee0bde293ca01",
+    "viewBox": "724 0 724 1448"
+  },
+  {
+    "localPath": "muscles/back.svg",
+    "bytes": 25427,
+    "sha256": "36a948baabc382fa181f0ac7408f1b261145f1a85abedfb5aedf0a2b3db3aaaf",
+    "viewBox": "724 0 724 1448"
+  },
+  {
+    "localPath": "muscles/biceps.svg",
+    "bytes": 30248,
+    "sha256": "7d57004eae459adda1b204585a2a5251c4b4cbdea76c16f798557d30e7ed1ef6",
+    "viewBox": "0 0 724 1448"
+  },
+  {
+    "localPath": "muscles/calves.svg",
+    "bytes": 25400,
+    "sha256": "0e04de0991f245b617844225a9338b1022b6d31308dfb02590e07fb718056718",
+    "viewBox": "724 0 724 1448"
+  },
+  {
+    "localPath": "muscles/chest.svg",
+    "bytes": 30247,
+    "sha256": "88091dd4b3542736ec3a87460970967428dcc54a9237ef54059d6d2c3b142770",
+    "viewBox": "0 0 724 1448"
+  },
+  {
+    "localPath": "muscles/core.svg",
+    "bytes": 30255,
+    "sha256": "94216887db45f961fca92cb5f1b6a2320d04b351ec3a199ce84143e402e77c4d",
+    "viewBox": "0 0 724 1448"
+  },
+  {
+    "localPath": "muscles/deadlift.svg",
+    "bytes": 25424,
+    "sha256": "b4d73e86c256c5cd55b1974110158c3bcd67ab7e2fc2a82045f24c8494f48a3c",
+    "viewBox": "724 0 724 1448"
+  },
+  {
+    "localPath": "muscles/forearms.svg",
+    "bytes": 30249,
+    "sha256": "f8a22b548f3d3810581e322087817376e0fe56dc1e1a2d675970d550d39847ef",
+    "viewBox": "0 0 724 1448"
+  },
+  {
+    "localPath": "muscles/front-delts.svg",
+    "bytes": 30250,
+    "sha256": "644d648131b76bd68a96e3284bb61083600e9cf7fab1a7d91e8b9675be709ec5",
+    "viewBox": "0 0 724 1448"
+  },
+  {
+    "localPath": "muscles/glutes.svg",
+    "bytes": 25401,
+    "sha256": "abb0af31d8fcc28e0fb633e79152e57e0eb99c314e6d453dca98e34adb0b67bd",
+    "viewBox": "724 0 724 1448"
+  },
+  {
+    "localPath": "muscles/hamstrings.svg",
+    "bytes": 25403,
+    "sha256": "acaa3ecb332c2d00c1c4d791a45c1fa57b64824e7b5b1e47ccc8a00640001922",
+    "viewBox": "724 0 724 1448"
+  },
+  {
+    "localPath": "muscles/lats.svg",
+    "bytes": 25404,
+    "sha256": "8154f4913f4393f4eac0b377a58234a5a80c491806f48d32e0120ae57801d0ff",
+    "viewBox": "724 0 724 1448"
+  },
+  {
+    "localPath": "muscles/obliques.svg",
+    "bytes": 30250,
+    "sha256": "ab82e4ff0cc931234dc7360a3c412ba2501c3ccc87ba8120f015f828de6aeafc",
+    "viewBox": "0 0 724 1448"
+  },
+  {
+    "localPath": "muscles/quads.svg",
+    "bytes": 30252,
+    "sha256": "948ece3f1cf3294719f80bb01880fc25644c9b98aecacafbe3cf38369bec2eac",
+    "viewBox": "0 0 724 1448"
+  },
+  {
+    "localPath": "muscles/rear-delts.svg",
+    "bytes": 25402,
+    "sha256": "e2b842007602b2ef857e412b22538b924281ca3021a4c3c3088ed86410ad6cf2",
+    "viewBox": "724 0 724 1448"
+  },
+  {
+    "localPath": "muscles/shoulders.svg",
+    "bytes": 55294,
+    "sha256": "761d3bf60294171af8537272c4020fffc6f5f33a3c46b2767ba6c2d31f17e1f4",
+    "viewBox": "0 0 1448 1448"
+  },
+  {
+    "localPath": "muscles/triceps.svg",
+    "bytes": 25401,
+    "sha256": "2f4593eef38e6a06b4901a4b7d22313b093687d10ae8d04c257ab757eeaab2ad",
+    "viewBox": "724 0 724 1448"
+  }
+]

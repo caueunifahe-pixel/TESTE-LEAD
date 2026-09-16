@@ -1,0 +1,241 @@
+[
+  {
+    "name": "chest",
+    "localPath": "muscles/chest.svg",
+    "view": "front",
+    "highlightedRegions": [
+      "chest"
+    ],
+    "license": "MIT",
+    "copyright": "Copyright (c) 2022 ELABBASSI Hicham",
+    "sourceUrl": "https://github.com/HichamELBSI/react-native-body-highlighter/tree/8ed39ac2ae9cb46fb79d77eedec7e5b029a75174/assets",
+    "sourceCommit": "8ed39ac2ae9cb46fb79d77eedec7e5b029a75174",
+    "changes": "Converted literal path arrays into standalone SVG; added region IDs and recolored. Original path geometry is unchanged."
+  },
+  {
+    "name": "back",
+    "localPath": "muscles/back.svg",
+    "view": "back",
+    "highlightedRegions": [
+      "upper-back",
+      "trapezius",
+      "lower-back"
+    ],
+    "license": "MIT",
+    "copyright": "Copyright (c) 2022 ELABBASSI Hicham",
+    "sourceUrl": "https://github.com/HichamELBSI/react-native-body-highlighter/tree/8ed39ac2ae9cb46fb79d77eedec7e5b029a75174/assets",
+    "sourceCommit": "8ed39ac2ae9cb46fb79d77eedec7e5b029a75174",
+    "changes": "Converted literal path arrays into standalone SVG; added region IDs and recolored. Original path geometry is unchanged."
+  },
+  {
+    "name": "shoulders",
+    "localPath": "muscles/shoulders.svg",
+    "view": "both",
+    "highlightedRegions": [
+      "deltoids"
+    ],
+    "license": "MIT",
+    "copyright": "Copyright (c) 2022 ELABBASSI Hicham",
+    "sourceUrl": "https://github.com/HichamELBSI/react-native-body-highlighter/tree/8ed39ac2ae9cb46fb79d77eedec7e5b029a75174/assets",
+    "sourceCommit": "8ed39ac2ae9cb46fb79d77eedec7e5b029a75174",
+    "changes": "Converted literal path arrays into standalone SVG; added region IDs and recolored. Original path geometry is unchanged."
+  },
+  {
+    "name": "biceps",
+    "localPath": "muscles/biceps.svg",
+    "view": "front",
+    "highlightedRegions": [
+      "biceps"
+    ],
+    "license": "MIT",
+    "copyright": "Copyright (c) 2022 ELABBASSI Hicham",
+    "sourceUrl": "https://github.com/HichamELBSI/react-native-body-highlighter/tree/8ed39ac2ae9cb46fb79d77eedec7e5b029a75174/assets",
+    "sourceCommit": "8ed39ac2ae9cb46fb79d77eedec7e5b029a75174",
+    "changes": "Converted literal path arrays into standalone SVG; added region IDs and recolored. Original path geometry is unchanged."
+  },
+  {
+    "name": "triceps",
+    "localPath": "muscles/triceps.svg",
+    "view": "back",
+    "highlightedRegions": [
+      "triceps"
+    ],
+    "license": "MIT",
+    "copyright": "Copyright (c) 2022 ELABBASSI Hicham",
+    "sourceUrl": "https://github.com/HichamELBSI/react-native-body-highlighter/tree/8ed39ac2ae9cb46fb79d77eedec7e5b029a75174/assets",
+    "sourceCommit": "8ed39ac2ae9cb46fb79d77eedec7e5b029a75174",
+    "changes": "Converted literal path arrays into standalone SVG; added region IDs and recolored. Original path geometry is unchanged."
+  },
+  {
+    "name": "quads",
+    "localPath": "muscles/quads.svg",
+    "view": "front",
+    "highlightedRegions": [
+      "quadriceps"
+    ],
+    "license": "MIT",
+    "copyright": "Copyright (c) 2022 ELABBASSI Hicham",
+    "sourceUrl": "https://github.com/HichamELBSI/react-native-body-highlighter/tree/8ed39ac2ae9cb46fb79d77eedec7e5b029a75174/assets",
+    "sourceCommit": "8ed39ac2ae9cb46fb79d77eedec7e5b029a75174",
+    "changes": "Converted literal path arrays into standalone SVG; added region IDs and recolored. Original path geometry is unchanged."
+  },
+  {
+    "name": "hamstrings",
+    "localPath": "muscles/hamstrings.svg",
+    "view": "back",
+    "highlightedRegions": [
+      "hamstring"
+    ],
+    "license": "MIT",
+    "copyright": "Copyright (c) 2022 ELABBASSI Hicham",
+    "sourceUrl": "https://github.com/HichamELBSI/react-native-body-highlighter/tree/8ed39ac2ae9cb46fb79d77eedec7e5b029a75174/assets",
+    "sourceCommit": "8ed39ac2ae9cb46fb79d77eedec7e5b029a75174",
+    "changes": "Converted literal path arrays into standalone SVG; added region IDs and recolored. Original path geometry is unchanged."
+  },
+  {
+    "name": "glutes",
+    "localPath": "muscles/glutes.svg",
+    "view": "back",
+    "highlightedRegions": [
+      "gluteal"
+    ],
+    "license": "MIT",
+    "copyright": "Copyright (c) 2022 ELABBASSI Hicham",
+    "sourceUrl": "https://github.com/HichamELBSI/react-native-body-highlighter/tree/8ed39ac2ae9cb46fb79d77eedec7e5b029a75174/assets",
+    "sourceCommit": "8ed39ac2ae9cb46fb79d77eedec7e5b029a75174",
+    "changes": "Converted literal path arrays into standalone SVG; added region IDs and recolored. Original path geometry is unchanged."
+  },
+  {
+    "name": "calves",
+    "localPath": "muscles/calves.svg",
+    "view": "back",
+    "highlightedRegions": [
+      "calves"
+    ],
+    "license": "MIT",
+    "copyright": "Copyright (c) 2022 ELABBASSI Hicham",
+    "sourceUrl": "https://github.com/HichamELBSI/react-native-body-highlighter/tree/8ed39ac2ae9cb46fb79d77eedec7e5b029a75174/assets",
+    "sourceCommit": "8ed39ac2ae9cb46fb79d77eedec7e5b029a75174",
+    "changes": "Converted literal path arrays into standalone SVG; added region IDs and recolored. Original path geometry is unchanged."
+  },
+  {
+    "name": "core",
+    "localPath": "muscles/core.svg",
+    "view": "front",
+    "highlightedRegions": [
+      "abs",
+      "obliques"
+    ],
+    "license": "MIT",
+    "copyright": "Copyright (c) 2022 ELABBASSI Hicham",
+    "sourceUrl": "https://github.com/HichamELBSI/react-native-body-highlighter/tree/8ed39ac2ae9cb46fb79d77eedec7e5b029a75174/assets",
+    "sourceCommit": "8ed39ac2ae9cb46fb79d77eedec7e5b029a75174",
+    "changes": "Converted literal path arrays into standalone SVG; added region IDs and recolored. Original path geometry is unchanged."
+  },
+  {
+    "name": "forearms",
+    "localPath": "muscles/forearms.svg",
+    "view": "front",
+    "highlightedRegions": [
+      "forearm"
+    ],
+    "license": "MIT",
+    "copyright": "Copyright (c) 2022 ELABBASSI Hicham",
+    "sourceUrl": "https://github.com/HichamELBSI/react-native-body-highlighter/tree/8ed39ac2ae9cb46fb79d77eedec7e5b029a75174/assets",
+    "sourceCommit": "8ed39ac2ae9cb46fb79d77eedec7e5b029a75174",
+    "changes": "Converted literal path arrays into standalone SVG; added region IDs and recolored. Original path geometry is unchanged."
+  },
+  {
+    "name": "deadlift",
+    "localPath": "muscles/deadlift.svg",
+    "view": "back",
+    "highlightedRegions": [
+      "lower-back",
+      "gluteal",
+      "hamstring"
+    ],
+    "license": "MIT",
+    "copyright": "Copyright (c) 2022 ELABBASSI Hicham",
+    "sourceUrl": "https://github.com/HichamELBSI/react-native-body-highlighter/tree/8ed39ac2ae9cb46fb79d77eedec7e5b029a75174/assets",
+    "sourceCommit": "8ed39ac2ae9cb46fb79d77eedec7e5b029a75174",
+    "changes": "Converted literal path arrays into standalone SVG; added region IDs and recolored. Original path geometry is unchanged."
+  },
+  {
+    "name": "abs",
+    "localPath": "muscles/abs.svg",
+    "view": "front",
+    "highlightedRegions": [
+      "abs"
+    ],
+    "license": "MIT",
+    "copyright": "Copyright (c) 2022 ELABBASSI Hicham",
+    "sourceUrl": "https://github.com/HichamELBSI/react-native-body-highlighter/tree/8ed39ac2ae9cb46fb79d77eedec7e5b029a75174/assets",
+    "sourceCommit": "8ed39ac2ae9cb46fb79d77eedec7e5b029a75174",
+    "changes": "Converted literal path arrays into standalone SVG; added region IDs and recolored. Original path geometry is unchanged."
+  },
+  {
+    "name": "obliques",
+    "localPath": "muscles/obliques.svg",
+    "view": "front",
+    "highlightedRegions": [
+      "obliques"
+    ],
+    "license": "MIT",
+    "copyright": "Copyright (c) 2022 ELABBASSI Hicham",
+    "sourceUrl": "https://github.com/HichamELBSI/react-native-body-highlighter/tree/8ed39ac2ae9cb46fb79d77eedec7e5b029a75174/assets",
+    "sourceCommit": "8ed39ac2ae9cb46fb79d77eedec7e5b029a75174",
+    "changes": "Converted literal path arrays into standalone SVG; added region IDs and recolored. Original path geometry is unchanged."
+  },
+  {
+    "name": "back-extension",
+    "localPath": "muscles/back-extension.svg",
+    "view": "back",
+    "highlightedRegions": [
+      "lower-back"
+    ],
+    "license": "MIT",
+    "copyright": "Copyright (c) 2022 ELABBASSI Hicham",
+    "sourceUrl": "https://github.com/HichamELBSI/react-native-body-highlighter/tree/8ed39ac2ae9cb46fb79d77eedec7e5b029a75174/assets",
+    "sourceCommit": "8ed39ac2ae9cb46fb79d77eedec7e5b029a75174",
+    "changes": "Converted literal path arrays into standalone SVG; added region IDs and recolored. Original path geometry is unchanged."
+  },
+  {
+    "name": "rear-delts",
+    "localPath": "muscles/rear-delts.svg",
+    "view": "back",
+    "highlightedRegions": [
+      "deltoids"
+    ],
+    "license": "MIT",
+    "copyright": "Copyright (c) 2022 ELABBASSI Hicham",
+    "sourceUrl": "https://github.com/HichamELBSI/react-native-body-highlighter/tree/8ed39ac2ae9cb46fb79d77eedec7e5b029a75174/assets",
+    "sourceCommit": "8ed39ac2ae9cb46fb79d77eedec7e5b029a75174",
+    "changes": "Converted literal path arrays into standalone SVG; added region IDs and recolored. Original path geometry is unchanged."
+  },
+  {
+    "name": "lats",
+    "localPath": "muscles/lats.svg",
+    "view": "back",
+    "highlightedRegions": [
+      "upper-back"
+    ],
+    "license": "MIT",
+    "copyright": "Copyright (c) 2022 ELABBASSI Hicham",
+    "sourceUrl": "https://github.com/HichamELBSI/react-native-body-highlighter/tree/8ed39ac2ae9cb46fb79d77eedec7e5b029a75174/assets",
+    "sourceCommit": "8ed39ac2ae9cb46fb79d77eedec7e5b029a75174",
+    "changes": "Converted literal path arrays into standalone SVG; added region IDs and recolored. Original path geometry is unchanged."
+  },
+  {
+    "name": "front-delts",
+    "localPath": "muscles/front-delts.svg",
+    "view": "front",
+    "highlightedRegions": [
+      "deltoids"
+    ],
+    "license": "MIT",
+    "copyright": "Copyright (c) 2022 ELABBASSI Hicham",
+    "sourceUrl": "https://github.com/HichamELBSI/react-native-body-highlighter/tree/8ed39ac2ae9cb46fb79d77eedec7e5b029a75174/assets",
+    "sourceCommit": "8ed39ac2ae9cb46fb79d77eedec7e5b029a75174",
+    "changes": "Converted literal path arrays into standalone SVG; added region IDs and recolored. Original path geometry is unchanged."
+  }
+]
